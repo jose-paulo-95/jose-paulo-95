@@ -1,5 +1,22 @@
 # 💫 About Me:
-Como profissional experiente em QA, estou trabalhando em diversos projetos de teste de software. Meu foco principal é garantir a qualidade e confiabilidade de aplicações de software, projetando e executando casos de teste, realizando testes manuais e automatizados, e identificando e relatando quaisquer defeitos ou problemas.<br><br><br>Estou aberto a colaborar com outros profissionais da indústria de desenvolvimento de software, incluindo desenvolvedores, testadores, gerentes de projeto e partes interessadas. Acredito no poder do trabalho em equipe e colaboração para criar produtos de software de alta qualidade.<br><br><br>Estou sempre em busca de ajuda e suporte para me manter atualizado sobre as últimas tendências e avanços no campo de QA. Especificamente, apreciaria assistência em áreas como frameworks de automação de teste, ferramentas de teste de desempenho e técnicas para um planejamento e execução de teste eficazes.<br><br>Para me manter atualizado e aprimorar continuamente minhas habilidades, estou focando em expandir meu conhecimento em frameworks e ferramentas de automação de teste. Também estou explorando tópicos como metodologias ágeis e DevOps, pois eles se tornaram cada vez mais importantes na indústria de desenvolvimento de software.<br><br>Sinta-se à vontade para me fazer qualquer pergunta relacionada a teste de software, metodologias de garantia de qualidade, design de casos de teste, automação de teste, teste de regressão, gerenciamento de defeitos ou qualquer outro aspecto do processo de QA. Estou aqui para compartilhar meu conhecimento e ajudá-lo com quaisquer dúvidas que possa ter.<br><br><br>Você sabia que o primeiro "bug" de computador foi um inseto real? Em 1947, uma mariposa causou uma falha no computador Harvard Mark II, o que levou ao termo "bug" ser usado para descrever defeitos ou problemas de software. Desde então, o termo pegou e é comumente usado na indústria de software.
+## 🔭 Atualmente estou trabalhando em:
+Como profissional experiente em QA, estou trabalhando em diversos projetos de teste de software. Meu foco principal é garantir a qualidade e confiabilidade de aplicações de software, projetando e executando casos de teste, realizando testes manuais e automatizados, e identificando e relatando quaisquer defeitos ou problemas.
+
+## 👯 Estou procurando colaborar em:
+Estou aberto a colaborar com outros profissionais da indústria de desenvolvimento de software, incluindo desenvolvedores, testadores, gerentes de projeto e partes interessadas. Acredito no poder do trabalho em equipe e colaboração para criar produtos de software de alta qualidade.
+
+## 🤝 Estou procurando ajuda com:
+Estou sempre em busca de ajuda e suporte para me manter atualizado sobre as últimas tendências e avanços no campo de QA. Especificamente, apreciaria assistência em áreas como frameworks de automação de teste, ferramentas de teste de desempenho e técnicas para um planejamento e execução de teste eficazes.
+
+## 🌱 Atualmente estou aprendendo:
+Para me manter atualizado e aprimorar continuamente minhas habilidades, estou focando em expandir meu conhecimento em frameworks e ferramentas de automação de teste. Também estou explorando tópicos como metodologias ágeis e DevOps, pois eles se tornaram cada vez mais importantes na indústria de desenvolvimento de software.
+
+## 💬 Pergunte-me sobre:
+Sinta-se à vontade para me fazer qualquer pergunta relacionada a teste de software, metodologias de garantia de qualidade, design de casos de teste, automação de teste, teste de regressão, gerenciamento de defeitos ou qualquer outro aspecto do processo de QA. Estou aqui para compartilhar meu conhecimento e ajudá-lo com quaisquer dúvidas que possa ter.
+
+## ⚡ Curiosidade divertida:
+Você sabia que o primeiro "bug" de computador foi um inseto real? Em 1947, uma mariposa causou uma falha no computador Harvard Mark II, o que levou ao termo "bug" ser usado para descrever defeitos ou problemas de software. Desde então, o termo pegou e é comumente usado na indústria de software.
+
 
 
 # 💻 Tech Stack:
